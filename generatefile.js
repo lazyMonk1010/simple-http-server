@@ -4,7 +4,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dataDir = 'tmp/data/';
+const dataDir = 'tmp/data';
 const numberOfFiles = 30;
 const targetFileSizeMB = 100;
 
